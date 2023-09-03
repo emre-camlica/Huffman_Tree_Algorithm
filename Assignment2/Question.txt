@@ -1,0 +1,1 @@
+Both keys contain all the  (uppercase) letters in the English alphabet. (And the underscore character.)
